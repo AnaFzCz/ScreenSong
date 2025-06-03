@@ -45,11 +45,13 @@ public class Principal {
                     break;
                 case 3:
                     listarMusicas();
+                    break;
                 case 4:
                     buscarMusicaPorArtista();
+                    break;
                 case 5:
                     pesquisarDadosDoArtista();
-
+                    break;
                 case 0:
                     System.out.println("Salindo do menú....");
                     break;
